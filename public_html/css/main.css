@@ -1,0 +1,103 @@
+body {
+    padding-top:0px;
+    background-color: #CB413F;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    font-weight: 300;
+}
+a {
+    color: #fff;
+    text-decoration: underline;
+}
+a:hover {
+    color: #0085B2;
+    text-decoration: none;
+}
+.text-block-red {
+    padding-bottom: 20px;
+}
+.text-block {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: #2e2e2e;
+}
+.jumbotron {
+    background-image:url(../img/holi.jpeg);
+    background-size:cover;
+    height:655px;
+    background-position:top;
+    color:#fff;
+    text-align:center;
+}
+.jumbotron-warchild {
+    background-image:url(../img/warchild-team.png);
+    background-size:cover;
+    height:655px;
+    background-position:top;
+    color:#fff;
+    text-align:center;
+}
+.logo {
+    background-color: #2e2e2e;
+    display: inline-block;
+    padding: 10px;
+    margin-top: 160px;
+    opacity: 0.8;
+}
+.supporting {
+    float: right;
+    margin-top: 155px;
+}
+.fa-light {
+    color: #fff;
+}
+.logo:hover {
+    opacity: 1.0;
+}
+.jumbotron h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight:300;
+    margin: 0px;
+    padding: 0px;
+    font-size: 150px;
+    line-height: 106px;
+    color: #ffffff;
+}
+.jumbotron h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight:500;
+    margin: 15px 0px 0px 0px;
+    padding: 0px;
+    font-size: 30px;
+    color: #ffffff;
+}
+.jumbotron h3 {
+    color: #CB413F;
+    font-size: 70px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.sidebar {
+    text-align: center;
+}
+.sidebar h1 {
+    text-transform: uppercase;
+    margin: 10px 0px 0px 0px;
+    padding: 0px;
+    font-weight: 500;
+}
+h1,h2,h3,h4 {
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+a img {
+    text-decoration: none;
+}
+footer {
+    text-align: center;
+    background-color: #2e2e2e;
+    padding: 20px 0px;
+    bottom: 0;
+}
